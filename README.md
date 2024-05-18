@@ -1,0 +1,1 @@
+"DairyDirect" is a web tech project showcasing HTML, CSS, JS, PHP, and MySQL skills. It's a user-friendly dairy product selling website, featuring smooth navigation and secure transactions. Built for a web technology course, it's a showcase of e-commerce proficiency.
