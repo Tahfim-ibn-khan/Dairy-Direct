@@ -1,4 +1,4 @@
-<h1>To use the admin pannel here are the credintials</h1>
+<h1>To use the admin pannel here are the credential</h1>
 <h3>User Name: Tahfim</h3>
 <h3>Password: tahfim</h3>
 <img width="1436" alt="Screenshot 2024-09-12 at 3 18 05 PM" src="https://github.com/user-attachments/assets/aa820b33-3def-4769-9993-bc775ab60ff7">
